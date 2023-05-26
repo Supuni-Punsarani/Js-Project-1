@@ -1,0 +1,12 @@
+console.log("Create Calculater");
+let num1=5;
+let num2=12;
+let sum;
+sum=num1+num2;
+console.log("sum of two number is "+sum);
+substract=num2-num1;
+console.log("substract of two number is "+substract);
+multy=num1*num2;
+console.log("multiplication of two numbers is "+multy);
+div=num1/num2;
+console.log("division of two numbers is "+div);
